@@ -2,7 +2,8 @@
 - 👀 I’m interested in Blockchain Development 
 - 📫 I'm having knowledge of  Blockchain, solidity, truffle, hardhat, Ethereum, IPFS, Node, NFT
 - ✨ Frontend Frameworks - ReactJs, NextJs, Javascript
-- 💕 Love to make 3Dimensional Stuff using THREE.JS and WebGL
+- ✨ Backend Frameworks - Firebase
+- 💕 Love to make 3Dimensional Stuff using THREE.JS with Blender and WebGL
 - 🌱 I’m currently exploring the science of metaverse
 
 <!---
