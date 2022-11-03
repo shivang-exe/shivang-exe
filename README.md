@@ -5,7 +5,7 @@
 - ✨ Backend Frameworks - Firebase
 - 💕 Love to make 3Dimensional Stuff using THREE.JS with Blender and WebGL
 - 🌱 I’m currently exploring the science of metaverse
-- ✨ My portfolio : https://shivang-portfolio.vercel.app/
+- ✨ My portfolio : https://shivang-pro.vercel.app/
 
 <!---
 cvang9/cvang9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
