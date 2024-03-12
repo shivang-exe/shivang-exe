@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **harshsaini5656@gmail.com**
 
-- 📄 Portfolio <a href="https://shivang-pro.vercel.app" target="blank">look it</a>
+- 📄 Portfolio <a href="https://portfolio-cvang.vercel.app/" target="blank">look it</a>
 
 <br/>
 
